@@ -1,1 +1,0 @@
-.././submodules/Spacegray.vim/colors/spacegray.vim

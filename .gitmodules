@@ -178,9 +178,6 @@
 [submodule "submodules/cobalt2-vim-theme"]
 	path = submodules/cobalt2-vim-theme
 	url = https://github.com/GertjanReynaert/cobalt2-vim-theme.git
-[submodule "submodules/Spacegray.vim"]
-	path = submodules/Spacegray.vim
-	url = https://github.com/ajh17/Spacegray.vim.git
 [submodule "submodules/heroku-colorscheme"]
 	path = submodules/heroku-colorscheme
 	url = https://github.com/stulzer/heroku-colorscheme.git
